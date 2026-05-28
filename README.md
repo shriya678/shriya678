@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer • Node.js · NestJS · TypeScript · AWS</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shriyagupta">
+  <a href="https://www.linkedin.com/in/shriyagupta-">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:guptashriya035@gmail.com">
